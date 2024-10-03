@@ -24,8 +24,9 @@ EcoLens Insights - For Sustainability Insights
 https://alto-theta.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/7f59d750-961b-4048-8722-5f582bc8e7a6)
+![techstack](https://github.com/user-attachments/assets/825b789e-dc4b-4c18-9d83-372774199b82)
 
-![image](https://github.com/user-attachments/assets/82514e4f-cace-47a8-847c-723a96686898)
+
 
 
 ![image](https://github.com/user-attachments/assets/dbc8c554-b050-4bd6-8d05-5795e62ea244)
